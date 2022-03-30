@@ -1,6 +1,6 @@
 # BEMCalibration Tool - Example
-<p>1 - Unzip the folder in your pc</p>
-<p>2 - Run the BEMCal.exe file
+<p>1 - Run the BEMCal.exe to unzip the main folder in your local pc</p>
+<p>2 - Open the new folder and run the BEMCal.exe file within it
 <p>3 - Select a config.json file (an example is provided in the "example" folder)
 <p>4 - Click on the IDF analyse button to start the calibration.
 <p>5 - Check the range of variation of parameters in problem.xls placed in the IDF folder (defined in the config.json file)
