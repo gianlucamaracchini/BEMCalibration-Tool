@@ -1,5 +1,5 @@
 # BEMCalibration Tool - Example
-Before starting, check that you idf match the EnergyPlus version installed in your pc.
+Before starting, check that you idf file matches the EnergyPlus version installed in your pc.
 <p>1 - Run the BEMCal.exe to unzip the main folder (BEMCal) in your local pc</p>
 <p>2 - Open the new folder (BEMCal) and run the BEMCal.exe file within it. Wait some seconds until the UI is loaded.</p>
 <p>3 - Press the "Load a config file" button and select a config json file. An example is provided in the "./BEMCal/example/" folder ("config.json").</p>
